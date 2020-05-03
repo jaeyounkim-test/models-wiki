@@ -1,7 +1,7 @@
 > :memo: A README.md template for releasing a paper code implementation to a GitHub repository.  
 >  
-> * Version: 1.0.2020.125  
-> * Provide general sections (Please modify sections depending on needs.)  
+> * Template version: 1.0.2020.125  
+> * Provide general sections. (Please modify sections depending on needs.)  
 
 # Model name, Paper title, or Project Name
 
@@ -12,18 +12,18 @@ This repository is the official or unofficial implementation of the following pa
 
 ## Description
 
-> :memo: Provide description of the model  
+> :memo: Provide description of the model.  
 >  
-> * Provide brief information of the algorithms used  
-> * Provide links for demos, blog posts, etc  
+> * Provide brief information of the algorithms used.  
+> * Provide links for demos, blog posts, etc.  
 
 ## History
 
-> :memo: Provide a changelog
+> :memo: Provide a changelog.
 
 ## Maintainers
 
-> :memo: Provide maintainer information  
+> :memo: Provide maintainer information.  
 
 * Last name, First name ([@GitHub username](https://github.com/username))
 * Last name, First name ([@GitHub username](https://github.com/username))
@@ -34,7 +34,7 @@ This repository is the official or unofficial implementation of the following pa
 
 ## Requirements
 
-> :memo: Provide details of the software required  
+> :memo: Provide details of the software required.  
 >  
 > * Add a `requirements.txt` file to the root directory for installing the necessary dependencies.  
 >   * Describe how to install requirements using pip.  
@@ -50,11 +50,11 @@ pip install -r requirements.txt
 
 ## Results
 
-> :memo: Provide results (e.g., accuracy, latency)
+> :memo: Provide a table with results. (e.g., accuracy, latency)  
 >  
-> * Provide pre-trained models (checkpoint, SavedModel files)  
->   * Publish TensorFlow SavedModel files on TensorFlow Hub (tfhub.dev) if possible  
-> * Add links to [TensorBoard.dev](https://tensorboard.dev/) for visualizing metrics  
+> * Provide links to the pre-trained models (checkpoint, SavedModel files).  
+>   * Publish TensorFlow SavedModel files on TensorFlow Hub (tfhub.dev) if possible.  
+> * Add links to [TensorBoard.dev](https://tensorboard.dev/) for visualizing metrics.  
 >  
 > An example table for image classification results  
 >  
@@ -66,14 +66,14 @@ pip install -r requirements.txt
 
 ## Dataset
 
-> :memo: Provide information of the dataset used  
+> :memo: Provide information of the dataset used.  
 
 ## Training
 
-> :memo: Provide training information  
+> :memo: Provide training information.  
 >  
-> * Provide details for preprocessing, hyperparameters, random seeds, and environment  
-> * Provide a command line example for training  
+> * Provide details for preprocessing, hyperparameters, random seeds, and environment.  
+> * Provide a command line example for training.  
 
 Please run this command line for training.
 
@@ -83,10 +83,10 @@ python3 ...
 
 ## Evaluation
 
-> :memo: Provide an evaluation script with details of how to reproduce results  
+> :memo: Provide an evaluation script with details of how to reproduce results.  
 >  
-> * Describe data preprocessing / postprocessing steps  
-> * Provide a command line example for evaluation  
+> * Describe data preprocessing / postprocessing steps.  
+> * Provide a command line example for evaluation.  
 
 Please run this command line for evaluation.
 
@@ -96,7 +96,7 @@ python3 ...
 
 ## References
 
-> :memo: Provide links to references  
+> :memo: Provide links to references.  
 
 ## License
 
@@ -109,7 +109,7 @@ This project is licensed under the terms of the **Apache License 2.0**.
 
 ## Citation
 
-> :memo: Make your repository citable  
+> :memo: Make your repository citable.  
 >  
 > * Reference: [Making Your Code Citable](https://guides.github.com/activities/citable-code/)  
 
