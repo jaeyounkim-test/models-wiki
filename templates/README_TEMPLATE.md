@@ -12,7 +12,7 @@ This resository is the official or unofficial implementation of the following pa
 
 ## Maintainers
 
-> :memo: Maintainer information  
+> :memo: Provide maintainer information  
 
 * Last name, First name ([@GitHub username](https://github.com/username))
 * Last name, First name ([@GitHub username](https://github.com/username))
@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ```
 
 ## Pre-trained Models
-> :memo: Checkpoint and SavedModel files  
+> :memo: Provide checkpoint and SavedModel files  
 > • Publish SavedModel files at TensorFlow Hub (tfhub.dev)  
 >  
 > ### Image Classification  
@@ -46,10 +46,9 @@ pip install -r requirements.txt
 > :memo: Information of the dataset used  
 
 ## Training
-> :memo: Training information  
-> • Provide detailes for preprocessing, hyperparameters, random seeds, and environment
-> • Provide a command line example for training.
--->
+> :memo: Provide training information  
+> • Provide detailes for preprocessing, hyperparameters, random seeds, and environment  
+> • Provide a command line example for training  
 
 Please run this command line for training.
 
@@ -58,11 +57,9 @@ python3 ...
 ```
 
 ## Evaluation
-<!-- 
-• Provide an evaluation script with details of how to reproduce results.
-• Describe data preprocessing / postprocessing steps
-• Provide a command line example for evaluation.
--->
+> :memo: Provide an evaluation script with details of how to reproduce results  
+> • Describe data preprocessing / postprocessing steps  
+> • Provide a command line example for evaluation  
 
 Please run this command line for evaluation.
 
@@ -71,27 +68,21 @@ python3 ...
 ```
 
 ## References
-<!-- Link to references -->
+> :memo: Provie links to references  
 
 ## Contribution
-<!-- 
-• Communicate your expectations clearly.
-• How will you review and accept a contribution? (e.g., Use an issue template)
-• What types of contributions will you accept? (e.g., Bug fixes only)
--->
+> :memo: Communicate your expectations clearly.
+> • How will you review and accept a contribution? (e.g., Use an issue template)  
+> • What types of contributions will you accept? (e.g., Bug fixes only)  
 
 ## License
-<!-- 
-• Place your license text in a file named LICENSE.txt (or LICENSE.md) in the root of the repository.
-• Please also include information about your license in this README.md file.
-e.g., [Adding a license to a repository](https://help.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository)
--->
+> :memo: Place your license text in a file named LICENSE.txt (or LICENSE.md) in the root of the repository.
+> • Please also include information about your license in this README.md file.  
+> e.g., [Adding a license to a repository](https://help.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository)  
 
 This project is licensed under the terms of the **Apache License 2.0**.
 
 ## Citation
-<!-- 
-If you want to make your repository citable, please follow the instructions at [Making Your Code Citable](https://guides.github.com/activities/citable-code/)
--->
+> :memo: If you want to make your repository citable, please follow the instructions at [Making Your Code Citable](https://guides.github.com/activities/citable-code/)  
 
 If you want to cite this repository in your research paper, please use the following information.
