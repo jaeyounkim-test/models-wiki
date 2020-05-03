@@ -1,6 +1,6 @@
-> • This is a README.md template we encourage you to use when you release your model to a GitHub repository.
-> • There are general sections in this template for various ML models.
-> • You may need to remove existing sections and add more sections depending on your needs.
+> • This is a README.md template we encourage you to use when you release your model to a GitHub repository.  
+> • There are general sections in this template for various ML models.  
+> • You may need to remove existing sections and add more sections depending on your needs.  
 
 # Model, Paper, or Project Name
 
