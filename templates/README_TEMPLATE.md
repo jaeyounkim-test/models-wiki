@@ -4,12 +4,12 @@
 
 # Model name, Paper title, or Project Name
 
-This resository is the official or unofficial implementation of [Paper Title](https://arxiv.org/abs/YYMM.NNNNN).
+This resository is the official or unofficial implementation of the following paper.
 
-* Paper title: 
+* Paper title: [Paper Title](https://arxiv.org/abs/YYMM.NNNNN)
 * ArXiv: [arXiv:YYMM.NNNNN](https://arxiv.org/abs/YYMM.NNNNN)
 
-## Authors or Maintainers
+## Maintainers
 
 > :memo: Maintainer information  
 
