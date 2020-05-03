@@ -1,10 +1,12 @@
-> :memo: • This is a README.md template we encourage you to use when you release your model to a GitHub repository.  
-> • There are general sections in this template for various ML models.  
-> • You may need to remove existing sections and add more sections depending on your needs.  
+> :memo: This is a README.md template we encourage you to use when you release your model to a GitHub repository.  
+> • Provide general sections
+> • May need to modify sections depending on needs  
 
 # Model, Paper, or Project Name
 
-This is the official or unofficial implementation of [Paper Title](https://arxiv.org/abs/YYMM.NNNNN) ([arXiv:YYMM.NNNNN](https://arxiv.org/abs/YYMM.NNNNN)).
+This is the official or unofficial implementation of [Paper Title](https://arxiv.org/abs/YYMM.NNNNN).
+
+* ArXiv: [arXiv:YYMM.NNNNN](https://arxiv.org/abs/YYMM.NNNNN)
 
 ## Authors or Maintainers
 
@@ -12,12 +14,12 @@ This is the official or unofficial implementation of [Paper Title](https://arxiv
 * Last name, First name ([@GitHubUsername](https://github.com/username))
 
 ## Description
-> :memo: • Provide description of the model  
-> • Provide brief information of the algorithms used  
-> • If possible, include a link to a demonstration  
+> :memo: Provide description of the model  
+> Provide brief information of the algorithms used  
+> If possible, include a link to a demonstration  
 
 ## Requirements
-> • Provide details of the software required  
+> :memo: Provide details of the software required  
 > • Describe how to install requirements  
 
 To install requirements:
