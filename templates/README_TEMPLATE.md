@@ -15,8 +15,8 @@ This is the official or unofficial implementation of [Paper Title](https://arxiv
 
 ## Description
 > :memo: Provide description of the model  
-> Provide brief information of the algorithms used  
-> If possible, include a link to a demonstration  
+> • Provide brief information of the algorithms used  
+> • If possible, include a link to a demonstration  
 
 ## Requirements
 > :memo: Provide details of the software required  
@@ -29,33 +29,13 @@ pip install -r requirements.txt
 ```
 
 ## Pre-trained Models
-
-### Checkpoints
-| Model name  | Download | MD5 checksum |
-|-------------|----------|--------------|
-| Model Name | Download Link (Size: KB) | MD5 checksum |
-
-### SavedModel
-> Optional: Provide a link for the SavedModel published at TensorFlow Hub (tfhub.dev)  
-
-| Model name  | TF Hub URL | 
-|-------------|------------|
-| Model Name |  https://tfhub.dev/... |
-
-
-## Results
-> :memo: Examples
+> :memo: Provide a link for the Checkpoint and SavedModel files published at TensorFlow Hub (tfhub.dev)
+> 
 > ### Image Classification  
 >  
-> | Model name | Top 1 Accuracy | Top 5 Accuracy |  
-> |------------|----------------|----------------|  
-> | Model name | xx% | xx% |  
->  
-> ### Object Detection  
->  
-> | Model name | AP | AP<sub>50</sub> | AP<sub>75</sub> | AP<sub>S</sub> | AP<sub>M</sub> | AP<sub>L</sub> |  
-> |------------|--- |---------------- | --------------- | ---------------| ---------------| -------------- |  
-> | Model name | xx.x | xx.x | xx.x | xx.x | xx.x | xx.x |  
+> | Model name | Download | Top 1 Accuracy | Top 5 Accuracy |  
+> |------------|----------|----------------|----------------|   
+> | Model name | Checkpoint, SavedModel | xx% | xx% |  
 
 ## Dataset
 <!-- 
