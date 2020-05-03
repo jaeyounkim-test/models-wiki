@@ -10,20 +10,15 @@ This is the official or unofficial implementation of [Paper Title](https://arxiv
 
 * Last name, First name ([@GitHubUsername](https://github.com/username))
 * Last name, First name ([@GitHubUsername](https://github.com/username))
-* Last name, First name ([@GitHubUsername](https://github.com/username))
 
 ## Description
-<!-- 
-• Provide description of the model 
-• Provide brief information of the algorithms used
-• If possible, include a link to a demonstration
--->
+> • Provide description of the model  
+> • Provide brief information of the algorithms used  
+> • If possible, include a link to a demonstration  
 
 ## Requirements
-<!-- 
-• Provide details of the software required 
-• Describe how to install requirements
--->
+> • Provide details of the software required  
+> • Describe how to install requirements  
 
 To install requirements:
 
