@@ -1,4 +1,4 @@
-> • This is a README.md template we encourage you to use when you release your model to a GitHub repository.  
+> :memo: • This is a README.md template we encourage you to use when you release your model to a GitHub repository.  
 > • There are general sections in this template for various ML models.  
 > • You may need to remove existing sections and add more sections depending on your needs.  
 
@@ -12,7 +12,7 @@ This is the official or unofficial implementation of [Paper Title](https://arxiv
 * Last name, First name ([@GitHubUsername](https://github.com/username))
 
 ## Description
-> • Provide description of the model  
+> :memo: • Provide description of the model  
 > • Provide brief information of the algorithms used  
 > • If possible, include a link to a demonstration  
 
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 
 ## Results
-> 📓 Examples
+> :memo: Examples
 > ### Image Classification  
 >  
 > | Model name | Top 1 Accuracy | Top 5 Accuracy |  
