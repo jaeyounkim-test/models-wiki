@@ -36,8 +36,8 @@ This repository is the official or unofficial implementation of the following pa
 
 > :memo: Provide details of the software required  
 >  
-> * Describe how to install requirements.  
 > * Add a `requirements.txt` file to the root directory for installing the necessary dependencies.  
+>   * Describe how to install requirements using pip.  
 > * Alternatively, create INSTALL.md.  
 
 * TensorFlow requirement: 2.1
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 > :memo: Provide results (e.g., accuracy, latency)
 >  
 > * Provide pre-trained models (checkpoint, SavedModel files)  
->     * Publish TensorFlow SavedModel files on TensorFlow Hub (tfhub.dev) if possible  
+>   * Publish TensorFlow SavedModel files on TensorFlow Hub (tfhub.dev) if possible  
 > * Add links to [TensorBoard.dev](https://tensorboard.dev/) for visualizing metrics  
 >  
 > An example table for image classification results  
@@ -71,6 +71,7 @@ pip install -r requirements.txt
 ## Training
 
 > :memo: Provide training information  
+>  
 > * Provide details for preprocessing, hyperparameters, random seeds, and environment  
 > * Provide a command line example for training  
 
