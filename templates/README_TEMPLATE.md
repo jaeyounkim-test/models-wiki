@@ -29,8 +29,9 @@ pip install -r requirements.txt
 ```
 
 ## Pre-trained Models
-> :memo: Provide a link for the Checkpoint and SavedModel files published at TensorFlow Hub (tfhub.dev)
-> 
+> :memo: Provide a link for the Checkpoint and SavedModel files
+> • Publish SavedModel files at TensorFlow Hub (tfhub.dev)  
+>  
 > ### Image Classification  
 >  
 > | Model name | Download | Top 1 Accuracy | Top 5 Accuracy |  
