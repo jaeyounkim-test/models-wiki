@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 > :memo: Provide results with pre-trained models (checkpoint, SavedModel files)  
 > • Recommend to publish TensorFlow SavedModel files on TensorFlow Hub (tfhub.dev)  
-> • Add links to TensorBoard.dev for visualizing metrics
+> • Add links to [TensorBoard.dev](https://tensorboard.dev/) for visualizing metrics
 >  
 > ### Image Classification  
 >  
