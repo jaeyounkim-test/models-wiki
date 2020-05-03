@@ -100,7 +100,7 @@ python3 ...
 
 ## License
 
-> :memo: Place your license text in a file named LICENSE.txt (or LICENSE.md) in the root of the repository.  
+> :memo: Place your license text in a file named LICENSE in the root of the repository.  
 >  
 > * Include information about your license.  
 > * Reference: [Adding a license to a repository](https://help.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository)  
