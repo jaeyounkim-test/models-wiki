@@ -32,15 +32,16 @@ To install requirements:
 pip install -r requirements.txt
 ```
 
-## Pre-trained Models
-> :memo: Provide checkpoint and SavedModel files  
-> • Publish SavedModel files at TensorFlow Hub (tfhub.dev)  
+## Results
+
+> :memo: Provide results with pre-trained models (checkpoint, SavedModel files)  
+> • Recommend to publish TensorFlow SavedModel files on TensorFlow Hub (tfhub.dev)  
 >  
 > ### Image Classification  
 >  
 > | Model name | Download | Top 1 Accuracy | Top 5 Accuracy |  
 > |------------|----------|----------------|----------------|   
-> | Model name | Checkpoint, SavedModel | xx% | xx% |  
+> | Model name | [Checkpoint](https://drive.google.com/...), [SavedModel](https://tfhub.dev/...) | xx% | xx% |  
 
 ## Dataset
 > :memo: Information of the dataset used  
