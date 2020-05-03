@@ -32,9 +32,11 @@ pip install -r requirements.txt
 |-------------|----------|--------------|
 | Model Name | Download Link (Size: KB) | MD5 checksum |
 
-### TensorFlow Hub SavedModel
-<!-- Provide a link for SavedModel hosted at TensorFlow Hub -->
-* URL: https://tfhub.dev/...
+### TensorFlow SavedModel
+> Optional: Provide a link for the SavedModel published at TensorFlow Hub (tfhub.dev)
+> e.g., Hub modle: https://tfhub.dev/...
+
+* Hub modle: https://tfhub.dev/...
 
 ## Results
 
