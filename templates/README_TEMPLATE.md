@@ -36,6 +36,7 @@ pip install -r requirements.txt
 
 > :memo: Provide results with pre-trained models (checkpoint, SavedModel files)  
 > • Recommend to publish TensorFlow SavedModel files on TensorFlow Hub (tfhub.dev)  
+> • Add links to TensorBoard.dev for visualizing metrics
 >  
 > ### Image Classification  
 >  
@@ -48,7 +49,7 @@ pip install -r requirements.txt
 
 ## Training
 > :memo: Provide training information  
-> • Provide detailes for preprocessing, hyperparameters, random seeds, and environment  
+> • Provide details for preprocessing, hyperparameters, random seeds, and environment  
 > • Provide a command line example for training  
 
 Please run this command line for training.
