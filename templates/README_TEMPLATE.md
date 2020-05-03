@@ -73,6 +73,7 @@ python3 ...
 ## Evaluation
 
 > :memo: Provide an evaluation script with details of how to reproduce results  
+>  
 > * Describe data preprocessing / postprocessing steps  
 > * Provide a command line example for evaluation  
 
@@ -88,14 +89,16 @@ python3 ...
 
 ## Contribution
 
-> :memo: Communicate your expectations clearly  
+> :memo: Communicate your expectations clearly.  
+>  
 > * How will you review and accept a contribution? (e.g., Use an issue template)  
 > * What types of contributions will you accept? (e.g., Bug fixes only)  
 
 ## License
 
 > :memo: Place your license text in a file named LICENSE.txt (or LICENSE.md) in the root of the repository.  
-> * Please also include information about your license in this README.md file.  
+>  
+> * Include information about your license.  
 > * Reference: [Adding a license to a repository](https://help.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository)  
 
 This project is licensed under the terms of the **Apache License 2.0**.
@@ -103,6 +106,7 @@ This project is licensed under the terms of the **Apache License 2.0**.
 ## Citation
 
 > :memo: Make your repository citable  
+>  
 > * Reference: [Making Your Code Citable](https://guides.github.com/activities/citable-code/)  
 
 If you want to cite this repository in your research paper, please use the following information.
