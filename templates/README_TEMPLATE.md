@@ -2,13 +2,16 @@
 > • Provide general sections  
 > • Modify sections depending on needs  
 
-# Model, Paper, or Project Name
+# Model name, Paper title, or Project Name
 
-This is the official or unofficial implementation of [Paper Title](https://arxiv.org/abs/YYMM.NNNNN).
+This resository is the official or unofficial implementation of [Paper Title](https://arxiv.org/abs/YYMM.NNNNN).
 
+* Paper title: 
 * ArXiv: [arXiv:YYMM.NNNNN](https://arxiv.org/abs/YYMM.NNNNN)
 
 ## Authors or Maintainers
+
+> :memo: Maintainer information  
 
 * Last name, First name ([@GitHubUsername](https://github.com/username))
 * Last name, First name ([@GitHubUsername](https://github.com/username))
@@ -16,7 +19,7 @@ This is the official or unofficial implementation of [Paper Title](https://arxiv
 ## Description
 > :memo: Description of the model  
 > • Provide brief information of the algorithms used  
-> • If possible, include a link to a demonstration  
+> • Provide links for demos, blog posts  
 
 ## Requirements
 > :memo: Provide details of the software required  
