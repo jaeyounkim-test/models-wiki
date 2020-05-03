@@ -29,6 +29,7 @@ This repository is the official or unofficial implementation of the following pa
 > :memo: Provide a table of contents to help readers navigate a lengthy README document.
 
 ## Requirements
+
 > :memo: Provide details of the software required  
 > * Describe how to install requirements  
 
@@ -94,14 +95,14 @@ python3 ...
 ## License
 
 > :memo: Place your license text in a file named LICENSE.txt (or LICENSE.md) in the root of the repository.  
-> * Include information about your license  
-> * GitHub help: [Adding a license to a repository](https://help.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository)  
+> * Please also include information about your license in this README.md file.  
+> * Reference: [Adding a license to a repository](https://help.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository)  
 
 This project is licensed under the terms of the **Apache License 2.0**.
 
 ## Citation
 
 > :memo: Make your repository citable  
-> * GitHub guides: [Making Your Code Citable](https://guides.github.com/activities/citable-code/)  
+> * Reference: [Making Your Code Citable](https://guides.github.com/activities/citable-code/)  
 
 If you want to cite this repository in your research paper, please use the following information.
