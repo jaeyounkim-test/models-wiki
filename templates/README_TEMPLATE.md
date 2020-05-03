@@ -29,9 +29,11 @@ This repository is the official or unofficial implementation of the following pa
 > :memo: Provide a table of contents to help readers navigate a lengthy README document.
 
 ## Requirements
-
 > :memo: Provide details of the software required  
+> • 
 > • Describe how to install requirements  
+
+* TensorFlow requirement: 2.1
 
 To install requirements:
 
