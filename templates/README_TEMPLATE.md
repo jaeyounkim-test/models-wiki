@@ -28,11 +28,12 @@ pip install -r requirements.txt
 
 ## Pre-trained Models
 
+### Checkpoints
 | Model name  | Download | MD5 checksum |
 |-------------|----------|--------------|
 | Model Name | Download Link (Size: KB) | MD5 checksum |
 
-### TensorFlow SavedModel
+### SavedModel
 > Optional: Provide a link for the SavedModel published at TensorFlow Hub (tfhub.dev)  
 
 | Model name  | TF Hub URL | 
@@ -42,12 +43,11 @@ pip install -r requirements.txt
 
 ## Results
 
-### Image Classification
-<!-- Example
-| Model name | Top 1 Accuracy | Top 5 Accuracy | 
-|------------|----------------|----------------|
-| Model name | xx% | xx% |
--->
+> ### Image Classification  
+> 
+> | Model name | Top 1 Accuracy | Top 5 Accuracy |  
+> |------------|----------------|----------------|  
+> | Model name | xx% | xx% |  
 
 ### Object Detection
 <!-- Example
