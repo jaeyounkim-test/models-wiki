@@ -13,8 +13,8 @@ This resository is the official or unofficial implementation of the following pa
 
 > :memo: Maintainer information  
 
-* Last name, First name ([@GitHubUsername](https://github.com/username))
-* Last name, First name ([@GitHubUsername](https://github.com/username))
+* Last name, First name ([@GitHub username](https://github.com/username))
+* Last name, First name ([@GitHub username](https://github.com/username))
 
 ## Description
 > :memo: Description of the model  
