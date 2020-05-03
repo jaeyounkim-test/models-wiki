@@ -42,7 +42,7 @@ pip install -r requirements.txt
 
 
 ## Results
-> 🔖 Examples
+> 📓 Examples
 > ### Image Classification  
 >  
 > | Model name | Top 1 Accuracy | Top 5 Accuracy |  
