@@ -8,7 +8,7 @@
 This repository is the official or unofficial implementation of the following paper.
 
 * Paper title: [Paper Title](https://arxiv.org/abs/YYMM.NNNNN)
-* Authors: 
+* Authors:  
 * ArXiv: [arXiv:YYMM.NNNNN](https://arxiv.org/abs/YYMM.NNNNN)
 
 ## Maintainers
@@ -45,10 +45,11 @@ pip install -r requirements.txt
 > • Recommend to publish TensorFlow SavedModel files on TensorFlow Hub (tfhub.dev)  
 > • Add links to [TensorBoard.dev](https://tensorboard.dev/) for visualizing metrics
 >  
+> An example table for image classification results
 > ### Image Classification  
 >  
 > | Model name | Download | Top 1 Accuracy | Top 5 Accuracy |  
-> |------------|----------|----------------|----------------|   
+> |------------|----------|----------------|----------------|  
 > | Model name | [Checkpoint](https://drive.google.com/...), [SavedModel](https://tfhub.dev/...) | xx% | xx% |  
 
 ## Dataset
@@ -68,6 +69,7 @@ python3 ...
 ```
 
 ## Evaluation
+
 > :memo: Provide an evaluation script with details of how to reproduce results  
 > • Describe data preprocessing / postprocessing steps  
 > • Provide a command line example for evaluation  
@@ -84,7 +86,7 @@ python3 ...
 
 ## Contribution
 
-> :memo: Communicate your expectations clearly.
+> :memo: Communicate your expectations clearly.  
 > • How will you review and accept a contribution? (e.g., Use an issue template)  
 > • What types of contributions will you accept? (e.g., Bug fixes only)  
 
