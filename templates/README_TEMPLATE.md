@@ -75,7 +75,7 @@ python3 ...
 
 ## References
 
-> :memo: Provie links to references  
+> :memo: Provide links to references  
 
 ## Contribution
 
