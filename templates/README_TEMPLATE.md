@@ -21,8 +21,8 @@ This repository is the official or unofficial implementation of the following pa
 ## Description
 
 > :memo: Description of the model  
-> • Provide brief information of the algorithms used  
-> • Provide links for demos, blog posts  
+> * Provide brief information of the algorithms used  
+> * Provide links for demos, blog posts  
 
 ## Table of contents
 
@@ -30,8 +30,7 @@ This repository is the official or unofficial implementation of the following pa
 
 ## Requirements
 > :memo: Provide details of the software required  
-> • 
-> • Describe how to install requirements  
+> * Describe how to install requirements  
 
 * TensorFlow requirement: 2.1
 
@@ -44,8 +43,8 @@ pip install -r requirements.txt
 ## Results
 
 > :memo: Provide results with pre-trained models (checkpoint, SavedModel files)  
-> • Recommend to publish TensorFlow SavedModel files on TensorFlow Hub (tfhub.dev)  
-> • Add links to [TensorBoard.dev](https://tensorboard.dev/) for visualizing metrics  
+> * Recommend to publish TensorFlow SavedModel files on TensorFlow Hub (tfhub.dev)  
+> * Add links to [TensorBoard.dev](https://tensorboard.dev/) for visualizing metrics  
 >  
 > An example table for image classification results  
 > ### Image Classification  
@@ -61,8 +60,8 @@ pip install -r requirements.txt
 ## Training
 
 > :memo: Provide training information  
-> • Provide details for preprocessing, hyperparameters, random seeds, and environment  
-> • Provide a command line example for training  
+> * Provide details for preprocessing, hyperparameters, random seeds, and environment  
+> * Provide a command line example for training  
 
 Please run this command line for training.
 
@@ -73,8 +72,8 @@ python3 ...
 ## Evaluation
 
 > :memo: Provide an evaluation script with details of how to reproduce results  
-> • Describe data preprocessing / postprocessing steps  
-> • Provide a command line example for evaluation  
+> * Describe data preprocessing / postprocessing steps  
+> * Provide a command line example for evaluation  
 
 Please run this command line for evaluation.
 
@@ -89,20 +88,20 @@ python3 ...
 ## Contribution
 
 > :memo: Communicate your expectations clearly  
-> • How will you review and accept a contribution? (e.g., Use an issue template)  
-> • What types of contributions will you accept? (e.g., Bug fixes only)  
+> * How will you review and accept a contribution? (e.g., Use an issue template)  
+> * What types of contributions will you accept? (e.g., Bug fixes only)  
 
 ## License
 
 > :memo: Place your license text in a file named LICENSE.txt (or LICENSE.md) in the root of the repository.  
-> • Include information about your license  
-> • GitHub help: [Adding a license to a repository](https://help.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository)  
+> * Include information about your license  
+> * GitHub help: [Adding a license to a repository](https://help.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository)  
 
 This project is licensed under the terms of the **Apache License 2.0**.
 
 ## Citation
 
 > :memo: Make your repository citable  
-> • GitHub guides: [Making Your Code Citable](https://guides.github.com/activities/citable-code/)  
+> * GitHub guides: [Making Your Code Citable](https://guides.github.com/activities/citable-code/)  
 
 If you want to cite this repository in your research paper, please use the following information.
