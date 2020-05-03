@@ -18,11 +18,13 @@ This repository is the official or unofficial implementation of the following pa
 * Last name, First name ([@GitHub username](https://github.com/username))
 
 ## Description
+
 > :memo: Description of the model  
 > • Provide brief information of the algorithms used  
 > • Provide links for demos, blog posts  
 
 ## Requirements
+
 > :memo: Provide details of the software required  
 > • Describe how to install requirements  
 
@@ -45,9 +47,11 @@ pip install -r requirements.txt
 > | Model name | [Checkpoint](https://drive.google.com/...), [SavedModel](https://tfhub.dev/...) | xx% | xx% |  
 
 ## Dataset
+
 > :memo: Information of the dataset used  
 
 ## Training
+
 > :memo: Provide training information  
 > • Provide details for preprocessing, hyperparameters, random seeds, and environment  
 > • Provide a command line example for training  
@@ -70,14 +74,17 @@ python3 ...
 ```
 
 ## References
+
 > :memo: Provie links to references  
 
 ## Contribution
+
 > :memo: Communicate your expectations clearly.
 > • How will you review and accept a contribution? (e.g., Use an issue template)  
 > • What types of contributions will you accept? (e.g., Bug fixes only)  
 
 ## License
+
 > :memo: Place your license text in a file named LICENSE.txt (or LICENSE.md) in the root of the repository.  
 > • Please also include information about your license in this README.md file.  
 > e.g., [Adding a license to a repository](https://help.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository)  
@@ -85,6 +92,7 @@ python3 ...
 This project is licensed under the terms of the **Apache License 2.0**.
 
 ## Citation
+
 > :memo: If you want to make your repository citable, please follow the instructions at [Making Your Code Citable](https://guides.github.com/activities/citable-code/)  
 
 If you want to cite this repository in your research paper, please use the following information.
