@@ -10,7 +10,7 @@ This is the official or unofficial implementation of [Paper Title](https://arxiv
 
 ## Authors or Maintainers
 
-* Last name, First name ([@GitHubUsername](https://github.com/username))
+* Last name, First name ([@GitHubUsername](https://github.com/username)) @jaeyounkim
 * Last name, First name ([@GitHubUsername](https://github.com/username))
 * Last name, First name ([@GitHubUsername](https://github.com/username))
 
