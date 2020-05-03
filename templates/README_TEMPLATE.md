@@ -7,6 +7,7 @@
 This resository is the official or unofficial implementation of the following paper.
 
 * Paper title: [Paper Title](https://arxiv.org/abs/YYMM.NNNNN)
+* Authors: 
 * ArXiv: [arXiv:YYMM.NNNNN](https://arxiv.org/abs/YYMM.NNNNN)
 
 ## Maintainers
