@@ -1,9 +1,11 @@
+# Model name, Paper title, or Project Name
+
 > :memo: A README.md template for releasing a paper code implementation to a GitHub repository.  
+>  
 > * Version: 1.0.2020.125  
 > * Provide general sections  
 > * Modify sections depending on needs  
 
-# Model name, Paper title, or Project Name
 
 This repository is the official or unofficial implementation of the following paper.
 
@@ -21,6 +23,7 @@ This repository is the official or unofficial implementation of the following pa
 ## Description
 
 > :memo: Description of the model  
+>  
 > * Provide brief information of the algorithms used  
 > * Provide links for demos, blog posts  
 
@@ -31,6 +34,7 @@ This repository is the official or unofficial implementation of the following pa
 ## Requirements
 
 > :memo: Provide details of the software required  
+>  
 > * Describe how to install requirements  
 
 * TensorFlow requirement: 2.1
@@ -44,10 +48,12 @@ pip install -r requirements.txt
 ## Results
 
 > :memo: Provide results with pre-trained models (checkpoint, SavedModel files)  
+>  
 > * Recommend to publish TensorFlow SavedModel files on TensorFlow Hub (tfhub.dev)  
 > * Add links to [TensorBoard.dev](https://tensorboard.dev/) for visualizing metrics  
 >  
 > An example table for image classification results  
+>  
 > ### Image Classification  
 >  
 > | Model name | Download | Top 1 Accuracy | Top 5 Accuracy |  
