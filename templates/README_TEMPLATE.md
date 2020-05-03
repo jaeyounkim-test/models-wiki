@@ -23,6 +23,10 @@ This repository is the official or unofficial implementation of the following pa
 > • Provide brief information of the algorithms used  
 > • Provide links for demos, blog posts  
 
+## Table of contents
+
+> :memo: Provide a table of contents to help readers navigate a lengthy README document.
+
 ## Requirements
 
 > :memo: Provide details of the software required  
