@@ -76,7 +76,7 @@ python3 ...
 > • What types of contributions will you accept? (e.g., Bug fixes only)  
 
 ## License
-> :memo: Place your license text in a file named LICENSE.txt (or LICENSE.md) in the root of the repository.
+> :memo: Place your license text in a file named LICENSE.txt (or LICENSE.md) in the root of the repository.  
 > • Please also include information about your license in this README.md file.  
 > e.g., [Adding a license to a repository](https://help.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository)  
 
