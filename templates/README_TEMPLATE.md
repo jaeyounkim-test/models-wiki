@@ -1,5 +1,5 @@
 > :memo: A README.md template for releasing a paper code implementation to a GitHub repository.  
-> • Version: 2020.05.01  
+> • Version: 1.0.2020.124  
 > • Provide general sections  
 > • Modify sections depending on needs  
 
