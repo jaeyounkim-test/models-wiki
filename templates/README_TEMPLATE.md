@@ -43,9 +43,9 @@ pip install -r requirements.txt
 
 > :memo: Provide results with pre-trained models (checkpoint, SavedModel files)  
 > • Recommend to publish TensorFlow SavedModel files on TensorFlow Hub (tfhub.dev)  
-> • Add links to [TensorBoard.dev](https://tensorboard.dev/) for visualizing metrics
+> • Add links to [TensorBoard.dev](https://tensorboard.dev/) for visualizing metrics  
 >  
-> An example table for image classification results
+> An example table for image classification results  
 > ### Image Classification  
 >  
 > | Model name | Download | Top 1 Accuracy | Top 5 Accuracy |  
@@ -86,20 +86,21 @@ python3 ...
 
 ## Contribution
 
-> :memo: Communicate your expectations clearly.  
+> :memo: Communicate your expectations clearly  
 > • How will you review and accept a contribution? (e.g., Use an issue template)  
 > • What types of contributions will you accept? (e.g., Bug fixes only)  
 
 ## License
 
 > :memo: Place your license text in a file named LICENSE.txt (or LICENSE.md) in the root of the repository.  
-> • Please also include information about your license in this README.md file.  
-> e.g., [Adding a license to a repository](https://help.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository)  
+> • Include information about your license  
+> • GitHub help: [Adding a license to a repository](https://help.github.com/en/github/building-a-strong-community/adding-a-license-to-a-repository)  
 
 This project is licensed under the terms of the **Apache License 2.0**.
 
 ## Citation
 
-> :memo: If you want to make your repository citable, please follow the instructions at [Making Your Code Citable](https://guides.github.com/activities/citable-code/)  
+> :memo: Make your repository citable  
+> • GitHub guides: [Making Your Code Citable](https://guides.github.com/activities/citable-code/)  
 
 If you want to cite this repository in your research paper, please use the following information.
