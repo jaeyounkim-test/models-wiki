@@ -1,5 +1,5 @@
 > :memo: This is a README.md template we encourage you to use when you release your model to a GitHub repository.  
-> • Provide general sections
+> • Provide general sections  
 > • May need to modify sections depending on needs  
 
 # Model, Paper, or Project Name
