@@ -1,17 +1,25 @@
-# Model name, Paper title, or Project Name
-
 > :memo: A README.md template for releasing a paper code implementation to a GitHub repository.  
 >  
 > * Version: 1.0.2020.125  
-> * Provide general sections  
-> * Modify sections depending on needs  
+> * Provide general sections (Please modify sections depending on needs.)  
 
+# Model name, Paper title, or Project Name
 
 This repository is the official or unofficial implementation of the following paper.
 
 * Paper title: [Paper Title](https://arxiv.org/abs/YYMM.NNNNN)
-* Authors:  
-* ArXiv: [arXiv:YYMM.NNNNN](https://arxiv.org/abs/YYMM.NNNNN)
+* ArXiv identifier: [arXiv:YYMM.NNNNN](https://arxiv.org/abs/YYMM.NNNNN)
+
+## Description
+
+> :memo: Provide description of the model  
+>  
+> * Provide brief information of the algorithms used  
+> * Provide links for demos, blog posts, etc  
+
+## History
+
+> :memo: Provide a changelog
 
 ## Maintainers
 
@@ -20,14 +28,7 @@ This repository is the official or unofficial implementation of the following pa
 * Last name, First name ([@GitHub username](https://github.com/username))
 * Last name, First name ([@GitHub username](https://github.com/username))
 
-## Description
-
-> :memo: Description of the model  
->  
-> * Provide brief information of the algorithms used  
-> * Provide links for demos, blog posts  
-
-## Table of contents
+## Table of Contents
 
 > :memo: Provide a table of contents to help readers navigate a lengthy README document.
 
@@ -35,7 +36,9 @@ This repository is the official or unofficial implementation of the following pa
 
 > :memo: Provide details of the software required  
 >  
-> * Describe how to install requirements  
+> * Describe how to install requirements.  
+> * Add a `requirements.txt` file to the root directory for installing the necessary dependencies.  
+> * Alternatively, create INSTALL.md.  
 
 * TensorFlow requirement: 2.1
 
@@ -47,9 +50,10 @@ pip install -r requirements.txt
 
 ## Results
 
-> :memo: Provide results with pre-trained models (checkpoint, SavedModel files)  
+> :memo: Provide results (e.g., accuracy, latency)
 >  
-> * Recommend to publish TensorFlow SavedModel files on TensorFlow Hub (tfhub.dev)  
+> * Provide pre-trained models (checkpoint, SavedModel files)  
+>     * Publish TensorFlow SavedModel files on TensorFlow Hub (tfhub.dev) if possible  
 > * Add links to [TensorBoard.dev](https://tensorboard.dev/) for visualizing metrics  
 >  
 > An example table for image classification results  
@@ -92,13 +96,6 @@ python3 ...
 ## References
 
 > :memo: Provide links to references  
-
-## Contribution
-
-> :memo: Communicate your expectations clearly.  
->  
-> * How will you review and accept a contribution? (e.g., Use an issue template)  
-> * What types of contributions will you accept? (e.g., Bug fixes only)  
 
 ## License
 
