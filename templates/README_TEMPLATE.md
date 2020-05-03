@@ -54,7 +54,7 @@ pip install -r requirements.txt
 
 ## Dataset
 
-> :memo: Information of the dataset used  
+> :memo: Provide information of the dataset used  
 
 ## Training
 
