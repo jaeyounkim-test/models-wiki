@@ -1,6 +1,6 @@
-> :memo: This is a README.md template we encourage you to use when you release your model to a GitHub repository.  
+> :memo: A README.md template for releasing a paper code implementation to a GitHub repository.  
 > • Provide general sections  
-> • May need to modify sections depending on needs  
+> • Modify sections depending on needs  
 
 # Model, Paper, or Project Name
 
@@ -14,7 +14,7 @@ This is the official or unofficial implementation of [Paper Title](https://arxiv
 * Last name, First name ([@GitHubUsername](https://github.com/username))
 
 ## Description
-> :memo: Provide description of the model  
+> :memo: Description of the model  
 > • Provide brief information of the algorithms used  
 > • If possible, include a link to a demonstration  
 
@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```
 
 ## Pre-trained Models
-> :memo: Provide a link for the Checkpoint and SavedModel files
+> :memo: Checkpoint and SavedModel files  
 > • Publish SavedModel files at TensorFlow Hub (tfhub.dev)  
 >  
 > ### Image Classification  
@@ -39,14 +39,12 @@ pip install -r requirements.txt
 > | Model name | Checkpoint, SavedModel | xx% | xx% |  
 
 ## Dataset
-<!-- 
-• Provide detailed information of the dataset used
--->
+> :memo: Information of the dataset used  
 
 ## Training
-<!-- 
-• Provide detailed training information (preprocessing, hyperparameters, random seeds, and environment) 
-• Provide a command line example for training.
+> :memo: Training information  
+> • Provide detailes for preprocessing, hyperparameters, random seeds, and environment
+> • Provide a command line example for training.
 -->
 
 Please run this command line for training.
