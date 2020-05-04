@@ -74,6 +74,9 @@ The research models are maintained by their respective authors.
 
 The following research models are no longer maintained.
 
+**Note**: We will remove archived models from the master branch in June, 2020. 
+After removal, you will still be able to access archived models in the archive branch.
+
 | Directory | Referenece (Paper) | Maintainer(s) |
 |-----------|--------------------|---------------|
 | [adv_imagenet<br />_models](adv_imagenet_models)   | [1] [Adversarial Machine Learning at Scale](https://arxiv.org/abs/1611.01236)<br />[2] [Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/abs/1705.07204) | alexeykurakin  |
