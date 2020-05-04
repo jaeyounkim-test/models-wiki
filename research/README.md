@@ -35,8 +35,8 @@ The research models are maintained by their respective authors.
 |-----------|--------------------|---------------|
 | [attention_ocr](attention_ocr) | [Attention-based Extraction of Structured Information from Street View Imagery](https://arxiv.org/abs/1704.03549) | xavigibert |
 | [autoaugment](autoaugment) | [1] [AutoAugment](https://arxiv.org/abs/1805.09501)<br />[2] [Wide Residual Networks](https://arxiv.org/abs/1605.07146)<br />[3] [Shake-Shake regularization](https://arxiv.org/abs/1705.07485)<br />[4] [ShakeDrop Regularization for Deep Residual Learning](https://arxiv.org/abs/1802.02375) | barretzoph |
-| [deeplab](deeplab)  | [1] [DeepLabv1](https://arxiv.org/abs/1412.7062)<br />[2] [DeepLabv2](https://arxiv.org/abs/1606.00915)<br />[3] [DeepLabv3](https://arxiv.org/abs/1802.02611)<br />[4] [DeepLabv3+](https://arxiv.org/abs/1706.05587) | aquariusjay, yknzhu |
-| [delf](delf)  | [1] DELF (DEep Local Features): [Large-Scale Image Retrieval with Attentive Deep Local Features](https://arxiv.org/abs/1612.06321) <br />[2] [Detect-to-Retrieve](https://arxiv.org/abs/1812.01584) | andrefaraujo |
+| [deeplab](deeplab) | [1] [DeepLabv1](https://arxiv.org/abs/1412.7062)<br />[2] [DeepLabv2](https://arxiv.org/abs/1606.00915)<br />[3] [DeepLabv3](https://arxiv.org/abs/1802.02611)<br />[4] [DeepLabv3+](https://arxiv.org/abs/1706.05587) | aquariusjay, yknzhu |
+| [delf](delf)  | [1] DELF (DEep Local Features): [Large-Scale Image Retrieval with Attentive Deep Local Features](https://arxiv.org/abs/1612.06321)<br />[2] [Detect-to-Retrieve](https://arxiv.org/abs/1812.01584) | andrefaraujo |
 | [lstm_object_detection](lstm_object_detection) | [Mobile Video Object Detection with Temporally-Aware Feature Maps](https://arxiv.org/abs/1711.06368) | yinxiaoli, yongzhe2160, lzyuan |
 | [marco](marco) | [Classification of crystallization outcomes using deep convolutional neural networks](https://arxiv.org/abs/1803.10342) | vincentvanhoucke |
 | [vid2depth](vid2depth) | [Unsupervised Learning of Depth and Ego-Motion from Monocular Video Using 3D Geometric Constraints](https://arxiv.org/abs/1802.05522) | rezama |
@@ -52,7 +52,7 @@ The research models are maintained by their respective authors.
 
 | Directory | Referenece (Paper) | Maintainer(s) |
 |-----------|--------------------|---------------|
-| [audioset](audioset) | [1] [AudioSet: A Large Scale Dataset of Audio Events](https://research.google/pubs/pub45857/) <br />[2] [CNN Architectures for Large-Scale Audio Classification](https://research.google/pubs/pub45611/) | plakal, dpwe |
+| [audioset](audioset) | [1] [AudioSet: A Large Scale Dataset of Audio Events](https://research.google/pubs/pub45857/)<br />[2] [CNN Architectures for Large-Scale Audio Classification](https://research.google/pubs/pub45611/) | plakal, dpwe |
 
 ### Reinforcement Learning
 
@@ -98,7 +98,7 @@ After removal, you will still be able to access archived models in the archive b
 | [learned_optimizer](learned_optimizer) | [Learned Optimizers that Scale and Generalize](https://arxiv.org/abs/1703.04813) | olganw, nirum |
 | [learning_to_remember_rare_events](learning_to_remember_rare_events) | [Learning to Remember Rare Events](https://arxiv.org/abs/1703.03129) | lukaszkaiser, ofirnachum |
 | [learning_unsupervised_learning](learning_unsupervised_learning) | [Meta-Learning Update Rules for Unsupervised Representation Learning](https://arxiv.org/abs/1804.00222) | lukemetz, nirum |
-| [lexnet_nc](lexnet_nc) | LexNET | vered1986, waterson |
+| [lexnet_nc](lexnet_nc) | [Olive Oil is Made of Olives, Baby Oil is Made for Babies: Interpreting Noun Compounds using Paraphrases in a Neural Model](https://arxiv.org/abs/1803.08073) | vered1986, waterson |
 | [lm_1b](lm_1b) | [Exploring the Limits of Language Modeling](https://arxiv.org/abs/1602.02410) | oriolvinyals, panyx0718 |
 | [lm_commonsense](lm_commonsense) | [A Simple Method for Commonsense Reasoning](https://arxiv.org/abs/1806.02847) | thtrieu |
 | [maskgan](maskgan)| [MaskGAN: Better Text Generation via Filling in the______](https://arxiv.org/abs/1801.07736) | liamb315, a-dai |
@@ -111,13 +111,13 @@ After removal, you will still be able to access archived models in the archive b
 | [real_nvp](real_nvp) | [Density estimation using Real NVP](https://arxiv.org/abs/1605.08803) | laurent-dinh |
 | [sentiment_analysis](sentiment_analysis)| [Effective Use of Word Order for Text Categorization with Convolutional Neural Networks](https://arxiv.org/abs/1412.1058) | sculd |
 | [seq2species](seq2species) | [Seq2Species: A deep learning approach to pattern recognition for short DNA sequences](https://doi.org/10.1101/353474) | apbusia, depristo |
-| [skip_thoughts](skip_thoughts) | [Skip-Thought Vectors](https://arxiv.org/abs/1506.06726) | cshallue|
+| [skip_thoughts](skip_thoughts) | [Skip-Thought Vectors](https://arxiv.org/abs/1506.06726) | cshallue |
 | [steve](steve) | [Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion](https://arxiv.org/abs/1807.01675) | buckman-google |
 | [street](street) | [End-to-End Interpretation of the French Street Name Signs Dataset](https://arxiv.org/abs/1702.03970) | theraysmith |
 | [struct2depth](struct2depth)| [Depth Prediction Without the Sensors: Leveraging Structure for Unsupervised Learning from Monocular Videos](https://arxiv.org/abs/1811.06152) | aneliaangelova |
 | [swivel](swivel) | [Swivel: Improving Embeddings by Noticing What's Missing](https://arxiv.org/abs/1602.02215) | waterson |
 | [tcn](tcn) | [Time-Contrastive Networks: Self-Supervised Learning from Video](https://arxiv.org/abs/1704.06888) | coreylynch, sermanet |
-| [textsum](textsum)| Sequence-to-sequence with attention model for text summarization | panyx0718, peterjliu |
+| [textsum](textsum)| [A Neural Attention Model for Abstractive Sentence Summarization](https://arxiv.org/abs/1509.00685) | panyx0718, peterjliu |
 | [transformer](transformer) | [Spatial Transformer Network](https://arxiv.org/abs/1506.02025) | daviddao|
 | [video_prediction](video_prediction) | [Unsupervised Learning for Physical Interaction through Video Prediction](https://arxiv.org/abs/1605.07157) | cbfinn |
 
