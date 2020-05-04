@@ -5,6 +5,8 @@
 
 # Model name, Paper title, or Project Name
 
+> :memo: Add a badge for the ArXiv identifier of your paper (arXiv:YYMM.NNNNN)
+
 [![Paper](http://img.shields.io/badge/paper-arXiv.YYMM.NNNNN-B3181B.svg)](https://arxiv.org/abs/...)
 
 This repository is the official or unofficial implementation of the following paper.
