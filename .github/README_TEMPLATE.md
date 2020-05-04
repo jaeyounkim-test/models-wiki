@@ -37,15 +37,14 @@ This repository is the official or unofficial implementation of the following pa
 
 ## Requirements
 
-![TensorFlow Requirement: 2.1+](https://img.shields.io/badge/TensorFlow%20Requirement-1.x-brightgreen)
+[![tensorFlow 2.1+](https://img.shields.io/badge/TensorFlow-2.1-brightgreen)](https://github.com/tensorflow/tensorflow/releases/tag/v2.1.0)
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
 > :memo: Provide details of the software required.  
 >  
 > * Add a `requirements.txt` file to the root directory for installing the necessary dependencies.  
 >   * Describe how to install requirements using pip.  
 > * Alternatively, create INSTALL.md.  
-
-* TensorFlow requirement: 2.1
 
 To install requirements:
 
