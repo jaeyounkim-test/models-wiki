@@ -5,12 +5,11 @@
 
 # Model name, Paper title, or Project Name
 
-[![Paper](http://img.shields.io/badge/paper-arXiv.YYMM.NNNNN-B3181B.svg)]()
+[![Paper](http://img.shields.io/badge/Paper-arXiv.YYMM.NNNNN-B3181B.svg)]()
 
 This repository is the official or unofficial implementation of the following paper.
 
 * Paper title: [Paper Title](https://arxiv.org/abs/YYMM.NNNNN)
-* ArXiv identifier: [arXiv:YYMM.NNNNN](https://arxiv.org/abs/YYMM.NNNNN)
 
 ## Description
 
@@ -35,6 +34,8 @@ This repository is the official or unofficial implementation of the following pa
 > :memo: Provide a table of contents to help readers navigate a lengthy README document.
 
 ## Requirements
+
+![TensorFlow Requirement: 2.1+](https://img.shields.io/badge/TensorFlow%20Requirement-1.x-brightgreen)
 
 > :memo: Provide details of the software required.  
 >  
