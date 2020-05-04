@@ -5,7 +5,7 @@
 
 # Model name, Paper title, or Project Name
 
-[![Paper](http://img.shields.io/badge/Paper-arXiv.YYMM.NNNNN-B3181B.svg)]()
+[![Paper](http://img.shields.io/badge/paper-arXiv.YYMM.NNNNN-B3181B.svg)]()
 
 This repository is the official or unofficial implementation of the following paper.
 
