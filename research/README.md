@@ -79,14 +79,14 @@ After removal, you will still be able to access archived models in the archive b
 
 | Directory | Referenece (Paper) | Maintainer(s) |
 |-----------|--------------------|---------------|
-| [adv_imagenet<br />_models](adv_imagenet_models)   | [1] [Adversarial Machine Learning at Scale](https://arxiv.org/abs/1611.01236)<br />[2] [Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/abs/1705.07204) | alexeykurakin  |
+| [adv_imagenet_models](adv_imagenet_models) | [1] [Adversarial Machine Learning at Scale](https://arxiv.org/abs/1611.01236)<br />[2] [Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/abs/1705.07204) | alexeykurakin |
 | [adversarial_crypto](adversarial_crypto) | [Learning to Protect Communications with Adversarial Neural Cryptography](https://arxiv.org/abs/1610.06918) | dave-andersen |
-| [adversarial<br />_logit_pairing](adversarial_logit_pairing)   | [Adversarial Logit Pairing](https://arxiv.org/abs/1803.06373) | alexeykurakin |
+| [adversarial_logit_pairing](adversarial_logit_pairing) | [Adversarial Logit Pairing](https://arxiv.org/abs/1803.06373) | alexeykurakin |
 | [autoencoder](autoencoder) | Various autoencoders | snurkabill |
 | [brain_coder](brain_coder) | [Neural Program Synthesis with Priority Queue Training](https://arxiv.org/abs/1801.03526) | danabo, mnorouzi |
-| [cognitive_mapping<br />_and_planning](cognitive_mapping_and_planning) | [Cognitive Mapping and Planning for Visual Navigation](https://arxiv.org/abs/1702.03920) | s-gupta |
+| [cognitive_mapping_and_planning](cognitive_mapping_and_planning) | [Cognitive Mapping and Planning for Visual Navigation](https://arxiv.org/abs/1702.03920) | s-gupta |
 | [compression](compression) | [Full Resolution Image Compression with Recurrent Neural Networks](https://arxiv.org/abs/1608.05148) | nmjohn |
-| [deep_contextual<br />_bandits](deep_contextual_bandits) | [Deep Bayesian Bandits Showdown: An Empirical Comparison of Bayesian Deep Networks for Thompson Sampling](https://arxiv.org/abs/1802.09127) | rikel |
+| [deep_contextual_bandits](deep_contextual_bandits) | [Deep Bayesian Bandits Showdown: An Empirical Comparison of Bayesian Deep Networks for Thompson Sampling](https://arxiv.org/abs/1802.09127) | rikel |
 | [deep_speech](deep_speech) | [Deep Speech 2](https://arxiv.org/abs/1512.02595) | yhliang2018 |
 | [domain_adaptation](domain_adaptation) | [1] [Domain Separation Networks](https://arxiv.org/abs/1608.06019) <br />[2] [Unsupervised Pixel-Level Domain Adaptation with Generative Adversarial Networks](https://arxiv.org/abs/1612.05424) | bousmalis, dmrd |
 | [feelvos](feelvos)| [FEELVOS](https://arxiv.org/abs/1902.09513) | pvoigtlaender, yuningchai, aquariusjay |
@@ -96,8 +96,8 @@ After removal, you will still be able to access archived models in the archive b
 | [inception](inception) | [Rethinking the Inception Architecture for Computer Vision](https://arxiv.org/abs/1512.00567) | shlens, vincentvanhoucke |
 | [keypointnet](keypointnet) | [KeypointNet](https://arxiv.org/abs/1807.03146) | mnorouzi |
 | [learned_optimizer](learned_optimizer) | [Learned Optimizers that Scale and Generalize](https://arxiv.org/abs/1703.04813) | olganw, nirum |
-| [learning_to<br />_remember<br />_rare_events](learning_to_remember_rare_events) | [Learning to Remember Rare Events](https://arxiv.org/abs/1703.03129) | lukaszkaiser, ofirnachum |
-| [learning<br />_unsupervised<br />_learning](learning_unsupervised_learning) | [Meta-Learning Update Rules for Unsupervised Representation Learning](https://arxiv.org/abs/1804.00222) | lukemetz, nirum |
+| [learning_to_remember_rare_events](learning_to_remember_rare_events) | [Learning to Remember Rare Events](https://arxiv.org/abs/1703.03129) | lukaszkaiser, ofirnachum |
+| [learning_unsupervised_learning](learning_unsupervised_learning) | [Meta-Learning Update Rules for Unsupervised Representation Learning](https://arxiv.org/abs/1804.00222) | lukemetz, nirum |
 | [lexnet_nc](lexnet_nc) | LexNET | vered1986, waterson |
 | [lm_1b](lm_1b) | [Exploring the Limits of Language Modeling](https://arxiv.org/abs/1602.02410) | oriolvinyals, panyx0718 |
 | [lm_commonsense](lm_commonsense) | [A Simple Method for Commonsense Reasoning](https://arxiv.org/abs/1806.02847) | thtrieu |
@@ -105,11 +105,11 @@ After removal, you will still be able to access archived models in the archive b
 | [namignizer](namignizer)| Namignizer | knathanieltucker |
 | [neural_gpu](neural_gpu)| [Neural GPUs Learn Algorithms](https://arxiv.org/abs/1511.08228) | lukaszkaiser |
 | [neural_programmer](neural_programmer) | [Learning a Natural Language Interface with Neural Programmer](https://arxiv.org/abs/1611.08945) | arvind2505 |
-| [next_frame<br />_prediction](next_frame_prediction) | [Visual Dynamics](https://arxiv.org/abs/1607.02586) | panyx0718 |
+| [next_frame_prediction](next_frame_prediction) | [Visual Dynamics](https://arxiv.org/abs/1607.02586) | panyx0718 |
 | [ptn](ptn) | [Perspective Transformer Nets](https://arxiv.org/abs/1612.00814) | xcyan, arkanath, hellojas, honglaklee |
 | [qa_kg](qa_kg) | [Learning to Reason](https://arxiv.org/abs/1704.05526) | yuyuz |
 | [real_nvp](real_nvp) | [Density estimation using Real NVP](https://arxiv.org/abs/1605.08803) | laurent-dinh |
-| [sentiment<br />_analysis](sentiment_analysis)| [Effective Use of Word Order for Text Categorization with Convolutional Neural Networks](https://arxiv.org/abs/1412.1058) | sculd |
+| [sentiment_analysis](sentiment_analysis)| [Effective Use of Word Order for Text Categorization with Convolutional Neural Networks](https://arxiv.org/abs/1412.1058) | sculd |
 | [seq2species](seq2species) | [Seq2Species: A deep learning approach to pattern recognition for short DNA sequences](https://doi.org/10.1101/353474) | apbusia, depristo |
 | [skip_thoughts](skip_thoughts) | [Skip-Thought Vectors](https://arxiv.org/abs/1506.06726) | cshallue|
 | [steve](steve) | [Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion](https://arxiv.org/abs/1807.01675) | buckman-google |
@@ -119,7 +119,7 @@ After removal, you will still be able to access archived models in the archive b
 | [tcn](tcn) | [Time-Contrastive Networks: Self-Supervised Learning from Video](https://arxiv.org/abs/1704.06888) | coreylynch, sermanet |
 | [textsum](textsum)| Sequence-to-sequence with attention model for text summarization | panyx0718, peterjliu |
 | [transformer](transformer) | [Spatial Transformer Network](https://arxiv.org/abs/1506.02025) | daviddao|
-| [video<br />_prediction](video_prediction) | [Unsupervised Learning for Physical Interaction through Video Prediction](https://arxiv.org/abs/1605.07157) | cbfinn |
+| [video_prediction](video_prediction) | [Unsupervised Learning for Physical Interaction through Video Prediction](https://arxiv.org/abs/1605.07157) | cbfinn |
 
 ---
 
