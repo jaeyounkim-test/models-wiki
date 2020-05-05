@@ -7,8 +7,8 @@ This directory contains code implementations and pre-trained models of published
 The research models are maintained by their respective authors.
 
 ## Table of Contents
-- Modeling Libraries and Models
-- Models and Implementations
+- [Modeling Libraries and Models](#-file-folder--modeling-libraries-and-models)
+- [Models and Implementations](#-file-folder--models-and-implementations)
   * [Computer Vision](#computer-vision)
   * [Natural Language Processing](#natural-language-processing)
   * [Audio and Speech](#audio-and-speech)
