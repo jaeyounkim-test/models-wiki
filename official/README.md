@@ -23,27 +23,37 @@ In the near future, we will add:
   EfficientNet, MnasNet, and variants
 * A set of excellent objection detection models.
 
+## Table of Contents
+
+- [Models and Implementations](#models-and-implementations)
+  * [Computer Vision](#computer-vision)
+    + [Image Classification](#image-classification)
+    + [Object Detection and Segmentation](#object-detection-and-segmentation)
+  * [Natural Language Processing](#natural-language-processing)
+  * [Recommendation](#recommendation)
+- [How to get started with the official models](#how-to-get-started-with-the-official-models)
+
 ## Models and Implementations
 
 ### Computer Vision
 
 #### Image Classification
 
-| <div style="width:200px">Model</div> | <div style="width:300px">Reference (Paper)</div> |
+| Model | Reference (Paper) |
 |-------|-------------------|
 | [MNIST](vision/image_classification) | A basic model to classify digits from the [MNIST dataset](http://yann.lecun.com/exdb/mnist/) |
 | [ResNet](vision/image_classification) | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) |
 
 #### Object Detection and Segmentation
 
-| <div style="width:200px">Model</div> | <div style="width:300px">Reference (Paper)</div> |
+| Model | Reference (Paper) |
 |-------|-------------------|
 | [RetinaNet](vision/detection) | [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002) |
 | [Mask R-CNN](vision/detection) | [Mask R-CNN](https://arxiv.org/abs/1703.06870) |
 
 ### Natural Language Processing
 
-| <div style="width:200px">Model</div> | <div style="width:300px">Reference (Paper)</div> |
+| Model | Reference (Paper) |
 |-------|-------------------|
 | [ALBERT (A Lite BERT)](nlp/albert) | [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) |
 | [BERT (Bidirectional Encoder Representations from Transformers)](nlp/bert) | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) |
@@ -53,7 +63,7 @@ In the near future, we will add:
 
 ### Recommendation
 
-| <div style="width:200px">Model</div> | <div style="width:300px">Reference (Paper)</div> |
+| Model | Reference (Paper) |
 |-------|-------------------|
 | [NCF](recommendation) | [Neural Collaborative Filtering](https://arxiv.org/abs/1708.05031) |
 
