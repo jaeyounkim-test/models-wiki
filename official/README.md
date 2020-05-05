@@ -26,7 +26,7 @@ In the near future, we will add:
 * [Model Implementations](#model-implementations)
   + [Computer Vision](#computer-vision)
     - [Image Classification](#image-classification)
-    - [Object Detection & Segmentation](#object-detection---segmentation)
+    - [Object Detection and Segmentation](#object-detection-and-segmentation)
   + [Natural Language Processing](#natural-language-processing)
   + [Recommendation](#recommendation)
 * [How to get started with the official models](#how-to-get-started-with-the-official-models)
@@ -44,7 +44,7 @@ In the near future, we will add:
 | [MNIST](vision/image_classification) | A basic model to classify digits from the [MNIST dataset](http://yann.lecun.com/exdb/mnist/) |
 | [ResNet](vision/image_classification) | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) |
 
-#### Object Detection & Segmentation
+#### Object Detection and Segmentation
 
 | Model | Reference (Paper) |
 |-------|-------------------|
