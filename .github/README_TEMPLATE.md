@@ -1,7 +1,7 @@
 > :memo: A README.md template for releasing a paper code implementation to a GitHub repository.  
 >  
 > * Template version: 1.0.2020.125  
-> * Provide general sections. (Please modify sections depending on needs.)  
+> * Please modify sections depending on needs.  
 
 # Model name, Paper title, or Project Name
 
@@ -37,7 +37,7 @@ This repository is the official or unofficial implementation of the following pa
 
 ## Requirements
 
-[![tensorFlow 2.1+](https://img.shields.io/badge/TensorFlow-2.1-brightgreen)](https://github.com/tensorflow/tensorflow/releases/tag/v2.1.0)
+[![tensorFlow 2.1+](https://img.shields.io/badge/tensorflow-2.1-brightgreen)](https://github.com/tensorflow/tensorflow/releases/tag/v2.1.0)
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)
 
 > :memo: Provide details of the software required.  
