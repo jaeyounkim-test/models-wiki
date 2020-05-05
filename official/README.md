@@ -6,6 +6,7 @@ The TensorFlow official models are a collection of models
 that use TensorFlow’s high-level APIs.
 They are intended to be well-maintained, tested, and kept up to date
 with the latest TensorFlow API.
+
 They should also be reasonably optimized for fast performance while still
 being easy to read.
 These models are used as end-to-end tests, ensuring that the models run
@@ -19,41 +20,30 @@ In the near future, we will add:
 * State-of-the-art language understanding models:
   More members in Transformer family
 * Start-of-the-art image classification models:
-  EfficientNet, MnasNet and variants.
+  EfficientNet, MnasNet, and variants
 * A set of excellent objection detection models.
 
-## Table of Contents
-* [Model Implementations](#model-implementations)
-  + [Computer Vision](#computer-vision)
-    - [Image Classification](#image-classification)
-    - [Object Detection and Segmentation](#object-detection-and-segmentation)
-  + [Natural Language Processing](#natural-language-processing)
-  + [Recommendation](#recommendation)
-* [How to get started with the official models](#how-to-get-started-with-the-official-models)
-  + [Requirements](#requirements)
-  + [Installation](#installation)
-
-## Model Implementations
+## Models and Implementations
 
 ### Computer Vision
 
 #### Image Classification
 
-| Model | Reference (Paper) |
+| <div style="width:200px">Model</div> | <div style="width:300px">Reference (Paper)</div> |
 |-------|-------------------|
 | [MNIST](vision/image_classification) | A basic model to classify digits from the [MNIST dataset](http://yann.lecun.com/exdb/mnist/) |
 | [ResNet](vision/image_classification) | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) |
 
 #### Object Detection and Segmentation
 
-| Model | Reference (Paper) |
+| <div style="width:200px">Model</div> | <div style="width:300px">Reference (Paper)</div> |
 |-------|-------------------|
 | [RetinaNet](vision/detection) | [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002) |
 | [Mask R-CNN](vision/detection) | [Mask R-CNN](https://arxiv.org/abs/1703.06870) |
 
 ### Natural Language Processing
 
-| Model | Reference (Paper) |
+| <div style="width:200px">Model</div> | <div style="width:300px">Reference (Paper)</div> |
 |-------|-------------------|
 | [ALBERT (A Lite BERT)](nlp/albert) | [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) |
 | [BERT (Bidirectional Encoder Representations from Transformers)](nlp/bert) | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) |
@@ -63,7 +53,7 @@ In the near future, we will add:
 
 ### Recommendation
 
-| Model | Reference (Paper) |
+| <div style="width:200px">Model</div> | <div style="width:300px">Reference (Paper)</div> |
 |-------|-------------------|
 | [NCF](recommendation) | [Neural Collaborative Filtering](https://arxiv.org/abs/1708.05031) |
 
@@ -137,5 +127,5 @@ pip3 install --user -r official/requirements.txt
 
 ## Contributions
 
-If you want to contribute to the TensorFlow Model Garden, 
+If you want to contribute to the TensorFlow Model Garden,
 please review the [contribution guidelines](https://github.com/tensorflow/models/blob/master/CONTRIBUTING.md).
