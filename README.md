@@ -14,9 +14,9 @@ The TensorFlow Model Garden is a repository with a number of different implement
 
 * March 31, 2020: [Introducing the Model Garden for TensorFlow 2](https://blog.tensorflow.org/2020/03/introducing-model-garden-for-tensorflow-2.html) ([Tweet](https://twitter.com/TensorFlow/status/1245029834633297921))
 
-## Contribution guidelines
+## Contributions
 
-If you want to contribute to models, please review the [contribution guidelines](CONTRIBUTING.md).
+If you want to contribute, please review the [contribution guidelines](CONTRIBUTING.md).
 
 ## License
 
