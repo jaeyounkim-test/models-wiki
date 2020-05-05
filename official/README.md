@@ -137,5 +137,4 @@ pip3 install --user -r official/requirements.txt
 
 ## Contributions
 
-If you want to contribute to the TensorFlow Model Garden,
-please review the [contribution guidelines](https://github.com/tensorflow/models/blob/master/CONTRIBUTING.md).
+If you want to contribute, please review the [contribution guidelines](../CONTRIBUTING.md).
