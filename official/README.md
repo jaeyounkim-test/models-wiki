@@ -13,34 +13,41 @@ with the same or improved speed and performance with each new TensorFlow build.
 
 ## Model Implementations
 
-### Natural Language Processing
-
-| Model | Description | Reference |
-| ----- | ----------- | --------- |
-| [ALBERT](nlp/albert) | A Lite BERT for Self-supervised Learning of Language Representations | [arXiv:1909.11942](https://arxiv.org/abs/1909.11942) |
-| [BERT](nlp/bert) | A powerful pre-trained language representation model: BERT (Bidirectional Encoder Representations from Transformers) | [arXiv:1810.04805](https://arxiv.org/abs/1810.04805) |
-| [NHNet](nlp/nhnet) | A transformer-based multi-sequence to sequence model: Generating Representative Headlines for News Stories | [arXiv:2001.09386](https://arxiv.org/abs/2001.09386) |
-| [Transformer](nlp/transformer) | A transformer model to translate the WMT English to German dataset | [arXiv:1706.03762](https://arxiv.org/abs/1706.03762) |
-| [XLNet](nlp/xlnet) | XLNet: Generalized Autoregressive Pretraining for Language Understanding | [arXiv:1906.08237](https://arxiv.org/abs/1906.08237) |
-
 ### Computer Vision
 
-| Model | Description | Reference |
-| ----- | ----------- | --------- |
-| [MNIST](vision/image_classification) | A basic model to classify digits from the MNIST dataset | [Link](http://yann.lecun.com/exdb/mnist/) |
-| [ResNet](vision/image_classification) | A deep residual network for image recognition | [arXiv:1512.03385](https://arxiv.org/abs/1512.03385) |
-| [RetinaNet](vision/detection) | A fast and powerful object detector | [arXiv:1708.02002](https://arxiv.org/abs/1708.02002) |
-| [Mask R-CNN](vision/detection) | An object detection and instance segmentation model | [arXiv:1703.06870](https://arxiv.org/abs/1703.06870) |
+#### Image Classification
 
-### Other models
+| Model | Reference (Paper) |
+|-------|-------------------|
+| [MNIST](vision/image_classification) | A basic model to classify digits from the [MNIST dataset](http://yann.lecun.com/exdb/mnist/) |
+| [ResNet](vision/image_classification) | [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385) |
 
-| Model | Description | Reference |
-| ----- | ----------- | --------- |
-| [NCF](recommendation) | Neural Collaborative Filtering model for recommendation tasks | [arXiv:1708.05031](https://arxiv.org/abs/1708.05031) |
+#### Object Detection & Segmentation
+
+| Model | Reference (Paper) |
+|-------|-------------------|
+| [RetinaNet](vision/detection) | [Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002) |
+| [Mask R-CNN](vision/detection) | [Mask R-CNN](https://arxiv.org/abs/1703.06870) |
+
+### Natural Language Processing
+
+| Model | Reference (Paper) |
+|-------|-------------------|
+| [ALBERT (A Lite BERT)](nlp/albert) | [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) |
+| [BERT (Bidirectional Encoder Representations from Transformers)](nlp/bert) | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) |
+| [NHNet (News Headline generation model)](nlp/nhnet) | [Generating Representative Headlines for News Stories](https://arxiv.org/abs/2001.09386) |
+| [Transformer](nlp/transformer) | [Attention Is All You Need](https://arxiv.org/abs/1706.03762) |
+| [XLNet](nlp/xlnet) | [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237) |
+
+### Recommendation
+
+| Model | Reference (Paper) |
+|-------|-------------------|
+| [NCF](recommendation) | [Neural Collaborative Filtering](https://arxiv.org/abs/1708.05031) |
 
 ---
 
-## How to get started with the Model Garden official models
+## How to get started with the official models
 
 * The models in the master branch are developed using TensorFlow 2,
 and they target the TensorFlow [nightly binaries](https://github.com/tensorflow/tensorflow#installation)
@@ -108,28 +115,18 @@ os.environ['PYTHONPATH'] += ":/path/to/models"
 pip3 install --user -r official/requirements.txt
 ```
 
----
-
 ## More models to come!
 
 The team is actively developing new models.
 In the near future, we will add:
 
-- State-of-the-art language understanding models:
+* State-of-the-art language understanding models:
   More members in Transformer family
-- Start-of-the-art image classification models:
+* Start-of-the-art image classification models:
   EfficientNet, MnasNet and variants.
-- A set of excellent objection detection models.
-
-If you would like to make any fixes or improvements to the models, please
-[submit a pull request](https://github.com/tensorflow/models/compare).
-
----
+* A set of excellent objection detection models.
 
 ## Contributions
 
-If you want to contribute to models, please review the [contribution guidelines](CONTRIBUTING.md).
-
-## License
-
-[Apache License 2.0](LICENSE)
+If you want to contribute to the TensorFlow Model Garden, 
+please review the [contribution guidelines](https://github.com/tensorflow/models/blob/master/CONTRIBUTING.md).
