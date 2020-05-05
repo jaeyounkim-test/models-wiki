@@ -1,5 +1,7 @@
 # How to contribute
 
+![Contributors](https://img.shields.io/github/contributors/tensorflow/models)
+
 We encourage you to contribute to the TensorFlow Model Garden.
 
 Please read our [guidelines](../../wiki/How-to-contribute) for details.
