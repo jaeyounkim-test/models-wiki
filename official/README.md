@@ -11,6 +11,17 @@ being easy to read.
 These models are used as end-to-end tests, ensuring that the models run
 with the same or improved speed and performance with each new TensorFlow build.
 
+## More models to come!
+
+The team is actively developing new models.
+In the near future, we will add:
+
+* State-of-the-art language understanding models:
+  More members in Transformer family
+* Start-of-the-art image classification models:
+  EfficientNet, MnasNet and variants.
+* A set of excellent objection detection models.
+
 ## Model Implementations
 
 ### Computer Vision
@@ -114,17 +125,6 @@ os.environ['PYTHONPATH'] += ":/path/to/models"
 ```shell
 pip3 install --user -r official/requirements.txt
 ```
-
-## More models to come!
-
-The team is actively developing new models.
-In the near future, we will add:
-
-* State-of-the-art language understanding models:
-  More members in Transformer family
-* Start-of-the-art image classification models:
-  EfficientNet, MnasNet and variants.
-* A set of excellent objection detection models.
 
 ## Contributions
 
