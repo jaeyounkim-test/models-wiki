@@ -22,6 +22,17 @@ In the near future, we will add:
   EfficientNet, MnasNet and variants.
 * A set of excellent objection detection models.
 
+## Table of Contents
+* [Model Implementations](#model-implementations)
+  + [Computer Vision](#computer-vision)
+    - [Image Classification](#image-classification)
+    - [Object Detection & Segmentation](#object-detection---segmentation)
+  + [Natural Language Processing](#natural-language-processing)
+  + [Recommendation](#recommendation)
+* [How to get started with the official models](#how-to-get-started-with-the-official-models)
+  + [Requirements](#requirements)
+  + [Installation](#installation)
+
 ## Model Implementations
 
 ### Computer Vision
@@ -55,8 +66,6 @@ In the near future, we will add:
 | Model | Reference (Paper) |
 |-------|-------------------|
 | [NCF](recommendation) | [Neural Collaborative Filtering](https://arxiv.org/abs/1708.05031) |
-
----
 
 ## How to get started with the official models
 
