@@ -9,14 +9,12 @@ The research models are maintained by their respective authors.
 ## Table of Contents
 - Modeling Libraries and Models
 - Models and Implementations
-  - [Computer Vision](#computer-vision)
-  - [Natural Language Processing](#natural-language-processing)
-  - [Audio and Speech](#audio-and-speech)
-  - [Reinforcement Learning](#reinforcement-learning)
-  - [Others](#others)
+  * [Computer Vision](#computer-vision)
+  * [Natural Language Processing](#natural-language-processing)
+  * [Audio and Speech](#audio-and-speech)
+  * [Reinforcement Learning](#reinforcement-learning)
+  * [Others](#others)
 - [Archived Models and Implementations](#warning-archived-models-and-implementations)
-
----
 
 ## :file_folder: Modeling Libraries and Models
 
@@ -24,8 +22,6 @@ The research models are maintained by their respective authors.
 |-----------|------|-------------|---------------|
 | [object_detection](object_detection) | TensorFlow Object Detection API | A framework that makes it easy to construct, train and deploy object detection models<br /><br />A collection of object detection models pre-trained on the COCO dataset, the Kitti dataset, the Open Images dataset, the AVA v2.1 dataset, and the iNaturalist Species Detection Dataset| @jch1, @tombstone, @pkulzc |
 | [slim](slim) | TensorFlow-Slim Image Classification Model Library | A lightweight high-level API of TensorFlow for defining, training and evaluating image classification models <br />• Inception V1/V2/V3/V4<br />• Inception-ResNet-v2<br />• ResNet V1/V2<br />• VGG 16/19<br />• MobileNet V1/V2/V3<br />• NASNet-A_Mobile/Large<br />• PNASNet-5_Large/Mobile | @sguada, @marksandler2 |
-
----
 
 ## :file_folder: Models and Implementations
 
@@ -67,6 +63,11 @@ The research models are maintained by their respective authors.
 |-----------|--------------------|---------------|
 | [lfads](lfads) | [LFADS - Latent Factor Analysis via Dynamical Systems](https://doi.org/10.1101/152884) | jazcollins, sussillo |
 | [rebar](rebar) | [REBAR: Low-variance, unbiased gradient estimates for discrete latent variable models](https://arxiv.org/abs/1703.07370) | gjtucker |
+
+## Contributions
+
+If you want to contribute to the TensorFlow Model Garden,
+please review the [contribution guidelines](https://github.com/tensorflow/models/blob/master/CONTRIBUTING.md).
 
 ---
 
@@ -120,9 +121,3 @@ After removal, you will still be able to access archived models in the archive b
 | [textsum](textsum)| [A Neural Attention Model for Abstractive Sentence Summarization](https://arxiv.org/abs/1509.00685) | panyx0718, peterjliu |
 | [transformer](transformer) | [Spatial Transformer Network](https://arxiv.org/abs/1506.02025) | daviddao|
 | [video_prediction](video_prediction) | [Unsupervised Learning for Physical Interaction through Video Prediction](https://arxiv.org/abs/1605.07157) | cbfinn |
-
----
-
-## Contributions
-
-If you want to contribute a new model, please submit a pull request.
