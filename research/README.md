@@ -14,7 +14,7 @@ The research models are maintained by their respective authors.
   * [Audio and Speech](#audio-and-speech)
   * [Reinforcement Learning](#reinforcement-learning)
   * [Others](#others)
-- [Archived Models and Implementations](#warning-archived-models-and-implementations) (:file_cabinet: No longer maintained)
+- [Archived Models and Implementations](#warning-archived-models-and-implementations) (No longer maintained)
 
 ## Modeling Libraries and Models
 
