@@ -1,7 +1,10 @@
+
 > :memo: A README.md template for releasing a paper code implementation to a GitHub repository.  
 >  
 > * Template version: 1.0.2020.125  
 > * Please modify sections depending on needs.  
+
+![](https://img.shields.io/badge/tfhub-google/imagenet/resnet_v2_50/classification/4-brightgreen)
 
 # Model name, Paper title, or Project Name
 
