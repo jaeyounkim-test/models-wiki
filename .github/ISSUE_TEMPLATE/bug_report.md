@@ -1,31 +1,38 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+name: "[Official Model] Bug Report"
+about: Use this template for reporting a bug for the “official” directory
+labels: type:bug,models:official
 
 ---
+# Prerequisites
 
-**Provide the entire URL of the model you are using?**
+Please answer the following questions for yourself before submitting an issue.
+ **YOU MAY DELETE THE PREREQUISITES SECTION.**
+
+- [ ] I am running the latest version.
+- [ ] I checked the documentation and found no answer.
+- [ ] I checked to make sure that this issue has not already been filed.
+- [ ] I'm reporting the issue to the correct repository (official or research).
+
+**1. The entire URL of the file you are using**
 https://github.com/tensorflow/models/tree/master/official/...
 
-**Describe the bug**
+**2. Describe the bug**
 A clear and concise description of what the bug is.
 
-**To Reproduce**
+**3. Steps to reproduce**
 Steps to reproduce the behavior.
 
-**Expected behavior**
+**4. Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Additional context**
-Include any logs or source code that would be helpful to diagnose the problem.
+**5. Additional context**
+Include any logs that would be helpful to diagnose the problem.
 
-**System information**
+**6. System information**
 
 - OS Platform and Distribution (e.g., Linux Ubuntu 16.04):
-- Mobile device (e.g., Pixel 4) if the issue happens on a mobile device:
+- Mobile device name if the issue happens on a mobile device:
 - TensorFlow installed from (source or binary):
 - TensorFlow version (use command below):
 - Python version:
