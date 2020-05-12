@@ -1,5 +1,5 @@
 ---
-name: Questions and Help
+name: "[Official Model] Test request"
 about: Use this template for Questions and Help.
 labels: type:support
 
