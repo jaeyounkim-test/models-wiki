@@ -10,7 +10,7 @@ The TensorFlow Model Garden is a repository with a number of different implement
 | [research](research) | • A collection of research model implementations in TensorFlow 1 or 2 by researchers<br />• Maintained and supported by researchers |
 | [community](community) | • A curated list of the GitHub repositories with machine learning models and implementations powered by TensorFlow 2 |
 
-## [Announcements](../../wiki/Announcements)
+## :newspaper: [Announcements](../../wiki/Announcements)
 
 | Date | News |
 |------|------|
