@@ -18,7 +18,7 @@ The TensorFlow Model Garden is a repository with a number of different implement
 | May 1, 2020 | [DELF: DEep Local Features](https://github.com/tensorflow/models/tree/master/research/delf) updated to support TensorFlow 2.1
 | March 31, 2020 | [Introducing the Model Garden for TensorFlow 2](https://blog.tensorflow.org/2020/03/introducing-model-garden-for-tensorflow-2.html) ([Tweet](https://twitter.com/TensorFlow/status/1245029834633297921)) |
 
-## Contributions
+## :clap: Contributions
 
 If you want to contribute, please review the [contribution guidelines](../../wiki/How-to-contribute).
 
