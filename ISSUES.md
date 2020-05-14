@@ -2,7 +2,7 @@
 
 * It must be a **bug**, a **feature request**, or a significant problem
 with **documentation**.
-  * (Please send a pull request instead for small documentation fixes.).
+  * Please send a pull request instead for small documentation fixes.
 * The required form must be filled out.
 * The issue should be related to the repository it is created in.
 
