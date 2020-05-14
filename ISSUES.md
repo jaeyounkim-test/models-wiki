@@ -6,7 +6,8 @@ with **documentation**.
 * The required form must be filled out.
 * The issue should be related to the repository it is created in.
 
-General help and support should be sought on
+General help and support should be sought on [Stack Overflow](https://stackoverflow.com/questions/tagged/tensorflow-model-garden).
+
 [![](https://img.shields.io/stackexchange/stackoverflow/t/tensorflow-model-garden)](https://stackoverflow.com/questions/tagged/tensorflow-model-garden)
 
 --- 
