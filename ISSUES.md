@@ -7,7 +7,7 @@ with **documentation**.
 * The issue should be related to the repository it is created in.
 
 General help and support should be sought on
-[![](https://img.shields.io/stackexchange/stackoverflow/qm/tensorflow-model-garden)](https://stackoverflow.com/questions/tagged/tensorflow-model-garden)
+[![](https://img.shields.io/stackexchange/stackoverflow/t/tensorflow-model-garden)](https://stackoverflow.com/questions/tagged/tensorflow-model-garden)
 
 --- 
 
