@@ -10,13 +10,15 @@ General help and support should be sought on [Stack Overflow](https://stackoverf
 
 [![](https://img.shields.io/stackexchange/stackoverflow/t/tensorflow-model-garden)](https://stackoverflow.com/questions/tagged/tensorflow-model-garden)
 
+TensorFlow developers respond to issues.
+We want to focus on work that benefits the whole community such as fixing bugs
+and adding new features.
+It helps us to address bugs and feature requests in a timely manner.
+
 --- 
 
 Please understand that research models in the [research directory](https://github.com/tensorflow/models/tree/master/research)
 included in this repository are experimental and research-style code.
 They are not officially supported by the TensorFlow team.
 
-TensorFlow developers respond to issues.
-We want to focus on work that benefits the whole community such as fixing bugs
-and adding new features.
-It helps us to address bugs and feature requests in a timely manner.
+
